@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @its-namami
+- 👋 Hi, @its-namami
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
 - ⚡ Fun fact: kangoroos sleep 20 minutes a day
+- 🔥 Doing The Odin Project
 <!--- 💞️ I’m looking to collaborate on */
 /*- 📫 How to reach me ...*/
 /*- 😄 Pronouns: ...*/--->
