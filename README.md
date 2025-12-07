@@ -17,7 +17,8 @@
 <div align="left">
   <img src="https://readme-eta-seven.vercel.app/api/top-langs/?username=its-namami&layout=donut&langs_count=5&size_weight=0.3&count_weight=0.7&theme=transparent" alt="most used languages"/>
   <img src="https://readme-eta-seven.vercel.app/api?username=its-namami&show_icons=true&theme=transparent" alt="github stats"/>
-  <img src="https://readme-eta-seven.vercel.app/api/wakatime?username=its_namami&theme=transparent"/>
+  <img src="https://raw.githubusercontent.com/its-namami/wakatime-stats/master/images/wakatime_weekly_language_stats.svg" alt="weekly language stats"/>
+  <img src="https://raw.githubusercontent.com/its-namami/wakatime-stats/master/images/wakatime_weekly_project_stats.svg" alt="weekly project stats"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-namami&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity graph"/>
 </div>
 
