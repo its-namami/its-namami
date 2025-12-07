@@ -1,4 +1,4 @@
-<h1 align="center">its-namami</h1>
+<h1 align="center">Hey👋 it's namami!</h1>
 
 ###
 
