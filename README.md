@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -14,18 +14,21 @@
 
 ###
 
-<div align="left">
-  <img src="https://readme-eta-seven.vercel.app/api/top-langs/?username=its-namami&layout=donut&langs_count=5&size_weight=0.3&count_weight=0.7&theme=transparent" alt="most used languages"/>
-  <img src="https://readme-eta-seven.vercel.app/api?username=its-namami&show_icons=true&theme=transparent" alt="github stats"/>
-  <img src="https://raw.githubusercontent.com/its-namami/wakatime-stats/master/images/wakatime_weekly_language_stats.svg" alt="weekly language stats"/>
-  <img src="https://raw.githubusercontent.com/its-namami/wakatime-stats/master/images/wakatime_weekly_project_stats.svg" alt="weekly project stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-namami&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity graph"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/its-namami/wakatime-stats/master/images/wakatime_weekly_project_stats.svg" alt="weekly project stats" width="450"/><br>
+
+  <a href="https://wakatime.com/share/@its_namami/af721d6a-f6c9-4045-a769-80d401e28234.svg" target="_blank">
+    <img src="https://wakatime.com/share/@its_namami/af721d6a-f6c9-4045-a769-80d401e28234.svg" width="450"/><br>
+  </a>
+
+  <img src="https://wakatime.com/share/@its_namami/c8ebcd9e-8ddf-441c-8b2e-0205dcd634a3.svg" width="450"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:its-namami?theme=original-new&padding=7&scale=1&align=top&pixelated=0&darkmode=0"  />
+  <img src="https://count.getloli.com/@:its-namami?theme=original-new&padding=7&scale=1&align=top&pixelated=0&darkmode=0" width="450" />
 </div>
 
 ###
+
