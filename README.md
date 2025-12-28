@@ -15,19 +15,22 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/its-namami/wakatime-stats/master/images/wakatime_weekly_project_stats.svg" alt="weekly project stats" width="450"/><br>
-
+  <img src="https://raw.githubusercontent.com/its-namami/wakatime-stats/master/images/wakatime_weekly_project_stats.svg" alt="weekly project stats" width="450"/>
+  <br>
   <a href="https://wakatime.com/share/@its_namami/af721d6a-f6c9-4045-a769-80d401e28234.svg" target="_blank">
-    <img src="https://wakatime.com/share/@its_namami/af721d6a-f6c9-4045-a769-80d401e28234.svg" width="450"/><br>
+    <img src="https://wakatime.com/share/@its_namami/af721d6a-f6c9-4045-a769-80d401e28234.svg" width="450"/>
   </a>
-
-  <img src="https://wakatime.com/share/@its_namami/c8ebcd9e-8ddf-441c-8b2e-0205dcd634a3.svg" width="450"/>
+  <br>
+  <a href="https://wakatime.com/share/@its_namami/e8870290-9792-4a88-8c3e-eee2a29438b6.svg">
+    <img src="https://wakatime.com/share/@its_namami/e8870290-9792-4a88-8c3e-eee2a29438b6.svg" width="450" />
+  </a>
+  <img src="https://wakatime.com/share/@its_namami/c8ebcd9e-8ddf-441c-8b2e-0205dcd634a3.svg" width="600"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:its-namami?theme=original-new&padding=7&scale=1&align=top&pixelated=0&darkmode=0" width="450" />
+  <img src="https://count.getloli.com/@:its-namami?theme=original-new&padding=7&scale=1&align=top&pixelated=0&darkmode=0" width="600" />
 </div>
 
 ###
