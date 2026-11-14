@@ -17,8 +17,8 @@
 ###
 
 <div align="center">
-  <a href="https://wakatime.com/share/@its_namami/4ecabbf2-869a-4b38-a378-adf29ae43be4.svg" target="_blank">
-    <img src="https://wakatime.com/share/@its_namami/4ecabbf2-869a-4b38-a378-adf29ae43be4.svg" width="450" alt="wakatime languages statistics" />
+  <a href="https://wakatime.com/share/@its_namami/da918d53-fa4d-41a4-bfb8-fd60373122ec.svg" target="_blank">
+    <img src="https://wakatime.com/share/@its_namami/da918d53-fa4d-41a4-bfb8-fd60373122ec.svg" width="450" alt="wakatime languages statistics" />
   </a>
   <br>
   <a href="https://wakatime.com/share/@its_namami/f5f0c286-9e90-467a-a29f-0139cebc50e1.svg" target="_blank">
