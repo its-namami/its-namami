@@ -15,8 +15,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/its-namami/wakatime-stats/master/images/wakatime_weekly_project_stats.svg" alt="weekly project stats" width="450"/>
-  <br>
   <a href="https://wakatime.com/share/@its_namami/af721d6a-f6c9-4045-a769-80d401e28234.svg" target="_blank">
     <img src="https://wakatime.com/share/@its_namami/af721d6a-f6c9-4045-a769-80d401e28234.svg" width="450"/>
   </a>
