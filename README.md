@@ -1,25 +1,29 @@
-<h1 align="center">Hey👋 it's namami!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7652B5&center=true&vCenter=true&width=500&lines=its-namami" />
+</h1>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo"  />
+  <img src="https://cdn.simpleicons.org/ruby/7652B5" height="60" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/7652B5" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" height="60" alt="emacs logo"  />
+  <img src="https://cdn.simpleicons.org/gnuemacs/7652B5" height="60" alt="emacs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/duxlabs-dev/dux-shell@main/assets/dev.duxlabs.shell.svg" height="60" alt="duxshell logo"  />
+  <img src="./dux-shell.svg" height="60" alt="dux shell logo" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://wakatime.com/share/@its_namami/af721d6a-f6c9-4045-a769-80d401e28234.svg" target="_blank">
-    <img src="https://wakatime.com/share/@its_namami/af721d6a-f6c9-4045-a769-80d401e28234.svg" width="450" alt="wakatime languages statistics" />
+  <a href="https://wakatime.com/share/@its_namami/4ecabbf2-869a-4b38-a378-adf29ae43be4.svg" target="_blank">
+    <img src="https://wakatime.com/share/@its_namami/4ecabbf2-869a-4b38-a378-adf29ae43be4.svg" width="450" alt="wakatime languages statistics" />
   </a>
   <br>
-  <img src="https://wakatime.com/share/@its_namami/c8ebcd9e-8ddf-441c-8b2e-0205dcd634a3.svg" width="600" alt="wakatime activity statistics" />
+  <a href="https://wakatime.com/share/@its_namami/f5f0c286-9e90-467a-a29f-0139cebc50e1.svg" target="_blank">
+    <img src="https://wakatime.com/share/@its_namami/f5f0c286-9e90-467a-a29f-0139cebc50e1.svg" width="450" alt="wakatime activity statistics" />
+  </a>
 </div>
 
 ###
